@@ -1,0 +1,7 @@
+To run the project, ensure you have the following dependencies installed:
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
