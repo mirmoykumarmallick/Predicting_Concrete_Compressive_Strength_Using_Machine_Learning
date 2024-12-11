@@ -41,3 +41,10 @@ You can download the dataset from the [UCI Machine Learning Repository](https://
 
 5. **Model Saving**:
    - Save the trained model using `joblib` for future use.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+- Mirmoy Kumar Mallick
+- LinkedIn Profile: linkedin.com/in/mirmoy-kumar-mallick
+- Email: mirmoykumarmallick10@gmail.com
