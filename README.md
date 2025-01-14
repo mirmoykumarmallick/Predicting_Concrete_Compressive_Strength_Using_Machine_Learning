@@ -47,4 +47,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 - Mirmoy Kumar Mallick
 - LinkedIn Profile: linkedin.com/in/mirmoy-kumar-mallick
-- Email: mirmoykumarmallick10@gmail.com
+- Email: mirmoykumarmallick99@gmail.com
